@@ -1,0 +1,6 @@
+label: 'Line Break Image'
+id: 'line_break_image'
+type_id: 'image'
+dependencies:
+  module:
+    - translator_editor

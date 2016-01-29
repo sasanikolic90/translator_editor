@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Translator Editor module.
+
+embed.embed_type_settings.line_break_image:
+  type: mapping
+  label: 'Schema for the Image embed type additions to an embed button entity'

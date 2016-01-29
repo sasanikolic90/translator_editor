@@ -1,0 +1,10 @@
+{
+  "name": "drupal/translator_editor",
+  "description": "Extends CKEditor",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/translator_editor",
+  "license": "GPL-2.0+",
+  "require": {
+    "embed/embed": "~2.2"
+  }
+}

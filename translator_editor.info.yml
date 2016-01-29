@@ -1,0 +1,8 @@
+name: Translator editor
+type: module
+description: 'Extend CKEditor with new feartures'
+core: 8.x
+package: Filters
+dependencies:
+  - editor
+  - embed

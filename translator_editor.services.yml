@@ -1,0 +1,3 @@
+services:
+  translator_editor:
+    class: Drupal\translator_editor\ImageEmbed
